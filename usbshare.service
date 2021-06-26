@@ -1,0 +1,10 @@
+[Unit]
+Description=USB Share Watchdog
+
+[Service]
+Type=simple
+ExecStart=/usr/local/share/usb_share.py
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

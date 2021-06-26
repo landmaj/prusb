@@ -85,6 +85,6 @@ sudo systemctl start usbshare.service
 
 
 ### Credits
-[The MagPI Magazine](https://magpi.raspberrypi.org/articles/pi-zero-w-smart-usb-flash-drive)
-[This StackExchange question](https://raspberrypi.stackexchange.com/questions/111878/pi-zero-with-g-mass-storage-configuration)
-[DietPi forum](https://dietpi.com/phpbb/viewtopic.php?f=8&t=5&start=10#p56)
+ - [The MagPI Magazine](https://magpi.raspberrypi.org/articles/pi-zero-w-smart-usb-flash-drive)
+ - [This StackExchange question](https://raspberrypi.stackexchange.com/questions/111878/pi-zero-with-g-mass-storage-configuration)
+ - [DietPi forum](https://dietpi.com/phpbb/viewtopic.php?f=8&t=5&start=10#p56)
